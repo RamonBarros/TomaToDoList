@@ -1,0 +1,8 @@
+com\stefanini\apitodolist\tasks\DTO\TaskDTO.class
+com\stefanini\apitodolist\tasks\model\Task.class
+com\stefanini\apitodolist\tasks\model\ResponseAPI.class
+com\stefanini\apitodolist\tasks\service\TaskFacade.class
+com\stefanini\apitodolist\tasks\config\WebConfig.class
+com\stefanini\apitodolist\tasks\controller\TaskAPI.class
+com\stefanini\apitodolist\tasks\repository\TaskRepository.class
+com\stefanini\apitodolist\Main.class
